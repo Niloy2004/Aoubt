@@ -10,17 +10,23 @@ Building Real-World Projects • Learning Every Day • Growing One Commit at a 
 
 Welcome to my MERN Stack learning repository.
 
-This repository documents my complete journey toward becoming a **Full Stack MERN Developer**. Every project, practice file, note, and experiment I build while learning modern web development will be maintained here.
+This repository documents my journey toward becoming a **Full Stack MERN Developer**. Here you'll find every project, practice file, note, and experiment I build while learning modern web development.
 
-My goal is not just to complete tutorials but to build practical, real-world applications and continuously improve my development skills.
+My goal is to build production-ready applications, strengthen problem-solving skills, and become a professional software developer.
 
 ---
 
 # 🚀 Current Status
 
-🟢 Learning HTML & CSS
+🟢 HTML5 Completed
 
-🟡 Learning JavaScript
+🟢 CSS3 Completed
+
+🟢 JavaScript Fundamentals Completed
+
+🟢 DOM Manipulation Completed
+
+🟡 Learning APIs
 
 🔜 React.js
 
@@ -53,7 +59,7 @@ My goal is not just to complete tutorials but to build practical, real-world app
 - MongoDB
 - Mongoose
 
-## Tools
+## Tools & Platforms
 
 - Git
 - GitHub
@@ -69,9 +75,10 @@ My goal is not just to complete tutorials but to build practical, real-world app
 
 - ✅ HTML5
 - ✅ CSS3
-- 🔄 JavaScript
-- ⏳ DOM Manipulation
-- ⏳ APIs
+- ✅ JavaScript Fundamentals
+- ✅ DOM Manipulation
+- 🔄 APIs & Fetch API
+- ⏳ Async JavaScript
 - ⏳ React.js
 - ⏳ React Router
 - ⏳ Node.js
@@ -104,7 +111,7 @@ https://github.com/Niloy2004/Spotify-Clone
 
 ## 🎬 Netflix Clone
 
-A Netflix-inspired landing page built using HTML and CSS.
+A responsive Netflix Landing Page Clone built using HTML and CSS.
 
 ### 🌐 Live Demo
 
@@ -116,9 +123,23 @@ https://github.com/Niloy2004/Netflix
 
 ---
 
+## 🌦 Weather App
+
+A responsive Weather Application built using JavaScript, Fetch API, and OpenWeather API.
+
+### 🌐 Live Demo
+
+https://weather-app-rho-lime-53.vercel.app/
+
+### 💻 Source Code
+
+https://github.com/Niloy2004/Weather-App
+
+---
+
 ## ✅ To-Do App
 
-A clean and responsive **To-Do List Application** built using **HTML, CSS, and JavaScript**. Easily add, manage, and organize your daily tasks with a simple and user-friendly interface.
+A clean and responsive task management application built using HTML, CSS, and JavaScript.
 
 ### 🌐 Live Demo
 
@@ -130,17 +151,7 @@ https://github.com/Niloy2004/ToDo-App
 
 ---
 
-## 🌦 Weather App
-
-Responsive Weather Application using JavaScript and Weather API.
-
-🚧 Coming Soon
-
----
-
 ## 💼 Portfolio Website
-
-Personal Developer Portfolio.
 
 🚧 Coming Soon
 
@@ -148,19 +159,19 @@ Personal Developer Portfolio.
 
 ## 💬 Chat Application
 
-Coming Soon
+🚧 Coming Soon
 
 ---
 
 ## 🛒 E-Commerce Website
 
-Coming Soon
+🚧 Coming Soon
 
 ---
 
 ## 📖 Notes Application
 
-Coming Soon
+🚧 Coming Soon
 
 ---
 
@@ -170,21 +181,21 @@ Coming Soon
 
 ✔ Build Production-Level Projects
 
+✔ Master Frontend Development
+
 ✔ Learn Backend Development
 
-✔ Master React Ecosystem
-
-✔ Create REST APIs
+✔ Build REST APIs
 
 ✔ Work with Databases
 
 ✔ Improve Problem Solving
 
-✔ Write Clean & Maintainable Code
+✔ Write Clean & Scalable Code
 
 ✔ Learn Deployment
 
-✔ Get Ready for Developer Jobs
+✔ Get Ready for Software Developer Roles
 
 ---
 
@@ -192,10 +203,12 @@ Coming Soon
 
 | Technology | Status |
 |------------|--------|
-| HTML | ✅ Completed |
-| CSS | ✅ Completed |
-| JavaScript | 🔄 Learning |
-| React | ⏳ Upcoming |
+| HTML5 | ✅ Completed |
+| CSS3 | ✅ Completed |
+| JavaScript | ✅ Completed |
+| DOM Manipulation | ✅ Completed |
+| APIs & Fetch API | 🔄 Learning |
+| React.js | ⏳ Upcoming |
 | Node.js | ⏳ Upcoming |
 | Express.js | ⏳ Upcoming |
 | MongoDB | ⏳ Upcoming |
@@ -222,9 +235,9 @@ MERN-Stack/
 
 # 🌱 Why This Repository?
 
-This repository is a collection of everything I learn while becoming a MERN Stack Developer.
+This repository represents my learning journey as a MERN Stack Developer.
 
-Instead of only watching tutorials, I believe in learning by building real-world projects, solving problems, and improving my coding skills through consistent practice.
+Instead of only following tutorials, I focus on building practical projects, writing clean code, solving real-world problems, and improving my skills every day.
 
 ---
 
@@ -232,13 +245,13 @@ Instead of only watching tutorials, I believe in learning by building real-world
 
 Suggestions, improvements, and feedback are always welcome.
 
-If you have any ideas or recommendations, feel free to open an Issue or submit a Pull Request.
+Feel free to open an Issue or submit a Pull Request.
 
 ---
 
 # ⭐ Support
 
-If you like this repository,
+If you found this repository helpful,
 
 ⭐ Star this repository
 
@@ -250,9 +263,9 @@ If you like this repository,
 
 # 📄 License
 
-This repository is created for educational and learning purposes.
+This project is created for learning and educational purposes.
 
-Feel free to explore the code and use it for your own learning.
+Feel free to explore the source code and use it for your own learning.
 
 ---
 
