@@ -95,31 +95,13 @@ My goal is to build production-ready applications, strengthen problem-solving sk
 
 # 🚀 Featured Projects
 
-## 🎵 Spotify Clone
+## 🛍️ Shop ERP Pro
 
-A responsive Spotify Web Player Clone built using HTML and CSS.
-
-### 🌐 Live Demo
-
-https://spotify-clone-three-rose-17.vercel.app/
+A full-featured Shop ERP (Enterprise Resource Planning) web application built to simplify day-to-day business operations. The system includes product management, inventory tracking, customer management, order processing, billing, sales management, and an intuitive dashboard for efficient business administration.
 
 ### 💻 Source Code
 
-https://github.com/Niloy2004/Spotify-Clone
-
----
-
-## 🎬 Netflix Clone
-
-A responsive Netflix Landing Page Clone built using HTML and CSS.
-
-### 🌐 Live Demo
-
-https://netflix-phi-gilt.vercel.app/
-
-### 💻 Source Code
-
-https://github.com/Niloy2004/Netflix
+https://github.com/Niloy2004/ShopERP-Pro
 
 ---
 
@@ -137,6 +119,44 @@ https://github.com/Niloy2004/Weather-app
 
 ---
 
+## 🧠 Simon Says Game
+
+A modern and interactive memory game inspired by the classic **Simon Says** challenge. Players must observe and memorize an increasingly complex sequence of colors and accurately repeat it to progress through higher levels.
+
+This project showcases JavaScript fundamentals, DOM manipulation, event handling, game logic, animations, and responsive web design.
+
+### ✨ Features
+
+- 🎮 Interactive Gameplay
+- 🧠 Memory Challenge
+- ⚡ Random Sequence Generation
+- 🎨 Smooth Flash Animations
+- 📱 Fully Responsive Design
+- 📈 Unlimited Levels
+- ❌ Game Over Detection
+- 🔄 Restart with Any Key Press
+
+### 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- DOM Manipulation
+- Event Listeners
+- Arrays & Functions
+- CSS Animations
+- Responsive Design
+
+### 🌐 Live Demo
+
+https://simon-game-weld-pi.vercel.app/
+
+### 💻 Source Code
+
+https://github.com/Niloy2004/Simon-Says-Game
+
+---
+
 ## ✅ To-Do App
 
 A clean and responsive task management application built using HTML, CSS, and JavaScript.
@@ -151,15 +171,31 @@ https://github.com/Niloy2004/ToDo-App
 
 ---
 
----
+## 🎬 Netflix Clone
 
-## 🛍️ Shop ERP Pro
+A responsive Netflix Landing Page Clone built using HTML and CSS.
 
-A full-featured Shop ERP (Enterprise Resource Planning) web application built to simplify day-to-day business operations. The system includes product management, inventory tracking, customer management, order processing, billing, sales management, and an intuitive dashboard for efficient business administration. Designed with a responsive and user-friendly interface, this project demonstrates practical full-stack development skills and real-world ERP functionality.
+### 🌐 Live Demo
+
+https://netflix-phi-gilt.vercel.app/
 
 ### 💻 Source Code
 
-https://github.com/Niloy2004/ShopERP-Pro
+https://github.com/Niloy2004/Netflix
+
+---
+
+## 🎵 Spotify Clone
+
+A responsive Spotify Web Player Clone built using HTML and CSS.
+
+### 🌐 Live Demo
+
+https://spotify-clone-three-rose-17.vercel.app/
+
+### 💻 Source Code
+
+https://github.com/Niloy2004/Spotify-Clone
 
 ---
 
@@ -249,7 +285,9 @@ MERN-Stack/
 
 This repository represents my learning journey as a MERN Stack Developer.
 
-Instead of only following tutorials, I focus on building practical projects, writing clean code, solving real-world problems, and improving my skills every day.
+Instead of only following tutorials, I focus on building practical projects, writing clean code, solving real-world problems, and improving my development skills every day.
+
+Every project in this repository reflects my continuous progress, from mastering the fundamentals to building scalable full-stack applications.
 
 ---
 
@@ -257,7 +295,7 @@ Instead of only following tutorials, I focus on building practical projects, wri
 
 Suggestions, improvements, and feedback are always welcome.
 
-Feel free to open an Issue or submit a Pull Request.
+Feel free to open an **Issue** or submit a **Pull Request**.
 
 ---
 
@@ -275,7 +313,7 @@ If you found this repository helpful,
 
 # 📄 License
 
-This project is created for learning and educational purposes.
+This repository is created for learning and educational purposes.
 
 Feel free to explore the source code and use it for your own learning.
 
@@ -293,4 +331,12 @@ https://github.com/Niloy2004
 
 ---
 
+<div align="center">
+
 ## 🚀 Keep Learning • Keep Building • Keep Growing
+
+⭐ Thanks for visiting my repository!
+
+Made with ❤️ by **Niloy Goswami**
+
+</div>
